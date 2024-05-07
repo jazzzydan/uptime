@@ -50,7 +50,7 @@ tasks.named('test') {
 	useJUnitPlatform()
 }
 
-task copyFrontend(type: Copy) {
+tasks.register('copyFrontend', Copy) {
 	from '../flolov4front/dist' // path to the Vue.js build output
 	into 'src/main/resources/static' // path to the static resources directory in Spring Boot
 }
