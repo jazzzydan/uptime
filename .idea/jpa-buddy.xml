@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" useNamedParametersForRepoQuery="true" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="23f2a5bf-9e1d-4cca-84bb-6ca3e8e9afac__postgres_rss" />
+    <option name="reLastEntityCreationPackage" value="lolov4back/src/main/java/com/uptime/lolov4back" />
+  </component>
+</project>
